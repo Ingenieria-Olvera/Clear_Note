@@ -19,7 +19,7 @@ I am designing this to have the following functioanlity
 
 ---
 ### Current KiCad Schamatic
-![clearnote_schem](clearnote.pdf)
+![clearnote_schem](clear_note_schem_81425.png)
 
 
 ---
