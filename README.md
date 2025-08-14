@@ -17,4 +17,10 @@ I am designing this to have the following functioanlity
 - USB-C charging
 - Real Time Clock
 
+---
+### Current KiCad Schamatic
+(clearnote.pdf)
+
+
+---
 I understand my ambition and I know this will be my passion projects for the following years. Yet I can not wait for this to truly be formed.
