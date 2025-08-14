@@ -13,7 +13,7 @@ I am designing this to have the following functioanlity
 - Audio playback from an SD card and headphone jack
 - File navigations for saving and playing music
 - TFT touch screen display
-- Volumn ajustment
+- Volume ajustment
 - USB-C charging
 - Real Time Clock
 
@@ -22,5 +22,10 @@ I am designing this to have the following functioanlity
 ![clearnote_schem](clear_note_schem_81425.png)
 
 
----
-I understand my ambition and I know this will be my passion projects for the following years. Yet I can not wait for this to truly be formed.
+#
+My current code which is working in parts to ensure the keyboard logic, tft screen, and SD card all work together nicley before commiting to anything crazy. Yet I will commit to some very fun stuff very soon.
+
+#
+I understand my ambition for this project, and I do know that this will take me a while before this project is exactly like how I want. Yet I can not wait for this to truly be formed.
+
+
