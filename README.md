@@ -28,4 +28,8 @@ My current code which is working in parts to ensure the keyboard logic, tft scre
 #
 I understand my ambition for this project, and I do know that this will take me a while before this project is exactly like how I want. Yet I can not wait for this to truly be formed.
 
+---
+#
+It's currently 9/16/25 and I am just trying to figure out the kinks of the actual sending of the sentence to the SD card and ensuring all the keyboard logic works before I make a bigger keyboard, but I was curious on what gpt could make and it gave me some really good ideas on what the overall product of this code can look like.
+
 
