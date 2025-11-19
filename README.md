@@ -18,8 +18,12 @@ I am designing this to have the following functioanlity
 - Real Time Clock
 
 ---
-### Current KiCad Schamatic
+### OLD KiCad Schamatic
 ![clearnote_schem](clear_note_schem_81425.png)
+I used to be so young and unaware of just how much this project would really need.
+
+### Current Altium Schem & PCB
+
 
 
 #
